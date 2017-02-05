@@ -1,0 +1,25 @@
+{
+  "bios": [
+    {
+      "purpose": "UX+DEV SUMMIT 2016",
+      "date": "2015-11-12T00:00:00.000Z",
+      "bio": "Hi, I’m Nizar. I’m the Lead Instructor at Ironhack Miami and have been a Web developer for over 8 years. I teach people what coding is and how to code. I also write software for the server, command-line and browser, usually in my preferred language: JavaScript. I love learning and speaking about code and I try to stay active in developer meetups in South Florida.
+
+Aside from that, I’m from Puerto Rico and I enjoy video games, film and cookies. I try to say funny things and often fail.",
+    },
+    {
+      "purpose": "Wordcamp Miami 2016",
+      "date": "2016-01-09T00:00:00.000Z",
+      "bio": "Nizar Khalife Iglesias is the Lead Instructor at Ironhack Miami and has been a Web developer for over 8 years. He teaches people what coding is and how to code. Nizar also writes software for the server, command-line and browser, usually in his preferred language: JavaScript. He loves learning and speaking about code and tries to stay active in developer meetups in South Florida.
+
+Aside from that, Nizar is from Puerto Rico and enjoys video games, film and cookies.",
+    },
+    {
+      "purpose": "Wordcamp Miami 2017",
+      "date": "2017-02-03T00:00:00.000Z",
+      "bio": "Nizar Khalife is the Lead Instructor at Ironhack in Miami and has been a Web developer for over 9 years. He teaches tech-literacy and the craft of coding. Nizar also writes software for the Web, usually in his preferred language: JavaScript.
+
+Aside from that, Nizar is from Puerto Rico and enjoys video games, film and cookies."
+    }
+  ]
+}
